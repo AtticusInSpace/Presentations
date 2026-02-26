@@ -14,18 +14,19 @@ CIE
 
 Welcome to the Flowershow Template! This is a ready-to-use template for creating beautiful websites from your markdown content, particularly optimized for Obsidian vaults. Test test test 
 
-## What is this template?
+## Automation update/ BuildTT Replacement
 
-This template serves as a foundation for:
-- Publishing your Obsidian vault as a website
-- Creating a new markdown-based website from scratch
-- Building documentation sites, blogs, or personal websites
+Guiding Principles My approach is to stick as closely to the logic that is being employed in our current process. One thing you might notice me saying is trying to translate what you're doing into simple conditional logic. 
 
-## Getting Started
+### First Year Timetabling Robot
+
+### Conflict Checker 
+
+## CIE
 
 You can use this template in two main ways:
 
-### 1. Publishing Your Obsidian Vault
+### CIE under Centralization
 
 If you have an existing Obsidian vault:
 1. Install Obsidian Flowershow plugin
@@ -34,18 +35,13 @@ If you have an existing Obsidian vault:
 
 Your Obsidian links, callouts, and other features will be preserved and rendered beautifully on the web.
 
-### 2. Creating a New Site
+### CIE in the Post-pre-mapping era 
 
-If you're starting from scratch:
-1. Use this template as your base
-2. Modify the content as you wish using an editor of your choise (or GitHub UI)
-3. Add your own markdown files
+Endorsements but also 
 
-## Learn More
+## Transfer Student Experience
 
-For more information about Flowershow and how to customize this template, visit:
-- [Flowershow Documentation](https://flowershow.app/docs)
+
 
 ---
 
-Happy publishing! 🚀
