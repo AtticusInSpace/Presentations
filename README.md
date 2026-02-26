@@ -12,7 +12,7 @@ CIE
 
 </details>
 
-[Click here to continue →](section-2)
+[Click here to continue →](Page 2)
 
 ## Automation update/ BuildTT Replacement
 
