@@ -14,6 +14,8 @@ CIE
 
 [Click here to continue →](Page 2)
 [[Page2]]
+Page 2.md
+[[Page 2.md]]
 
 ## Automation update/ BuildTT Replacement
 
