@@ -41,6 +41,12 @@ Endorsements but also
 
 ## Transfer Student Experience
 
+```mermaid
+graph TD
+    A[Start] --> B{Decision?}
+    B -->|Yes| C[Do thing]
+    B -->|No| D[Don't]
+```
 
 
 ---
