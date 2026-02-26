@@ -13,7 +13,7 @@ CIE
 </details>
 
 [Click here to continue →](Page 2)
-[[Page2]]
+[[Page 2]]
 Page 2.md
 [[Page 2.md]]
 
