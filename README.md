@@ -1,4 +1,13 @@
-# Flowershow Template 🌸
+# EAS Projects 
+Automation Update/BuildTT Replacement 
+Transfer Student Experience 
+CIE
+
+- Automation 
+  - Nested item
+  - Another nested item
+    - Even deeper
+- Item two
 
 Welcome to the Flowershow Template! This is a ready-to-use template for creating beautiful websites from your markdown content, particularly optimized for Obsidian vaults. Test test test 
 
