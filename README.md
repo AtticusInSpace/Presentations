@@ -28,10 +28,8 @@ You can use this template in two main ways:
 
 ### CIE under Centralization
 
-If you have an existing Obsidian vault:
-1. Install Obsidian Flowershow plugin
-2. Adjust the configuration
-3. Publish you vault
+- [x] Done
+- [ ] Not done
 
 Your Obsidian links, callouts, and other features will be preserved and rendered beautifully on the web.
 
