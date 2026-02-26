@@ -12,7 +12,7 @@ CIE
 
 </details>
 
-Welcome to the Flowershow Template! This is a ready-to-use template for creating beautiful websites from your markdown content, particularly optimized for Obsidian vaults. Test test test 
+[Click here to continue →](section-2)
 
 ## Automation update/ BuildTT Replacement
 
