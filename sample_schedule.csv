@@ -1,0 +1,15 @@
+student_id,course_code,course_name,days,start_time,end_time
+S001,CS101,Intro to Computer Science,"M,W,F",09:00,10:00
+S001,MATH201,Calculus I,"M,W,F",09:30,10:30
+S001,ENG110,English Composition,"T,Th",11:00,12:30
+S002,PHYS101,Physics I,"M,W,F",08:00,09:00
+S002,CHEM101,Chemistry I,"T,Th",08:00,09:30
+S002,BIO101,Biology I,"T,Th",09:00,10:30
+S003,HIST101,World History,"M,W,F",14:00,15:00
+S003,ART201,Drawing & Composition,"T,Th",13:00,14:30
+S003,PSYC101,Introduction to Psychology,"M,W,F",15:00,16:00
+S004,CS201,Data Structures,"M,W",10:00,11:30
+S004,CS301,Algorithms,"M,W",10:30,12:00
+S004,MATH301,Linear Algebra,"T,Th",09:00,10:30
+S005,MUS101,Music Theory,"M,W,F",12:00,13:00
+S005,SOC101,Introduction to Sociology,"T,Th",12:00,13:30
